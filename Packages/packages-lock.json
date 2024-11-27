@@ -23,6 +23,19 @@
         "com.unity.ugui": "1.0.0"
       }
     },
+    "com.dyonng.dotstween": {
+      "version": "https://github.com/dyonng/dots-tween.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.collections": "2.1.4",
+        "com.unity.entities": "1.0.16",
+        "com.unity.burst": "1.8.8",
+        "com.unity.mathematics": "1.2.6",
+        "com.unity.entities.graphics": "1.0.16"
+      },
+      "hash": "f8507397e90e6e74b81d2e9780d38136af4e7c70"
+    },
     "com.tonymax.nsprites": {
       "version": "https://github.com/Antoshidza/NSprites.git",
       "depth": 0,

@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.dyonng.dotstween": "https://github.com/dyonng/dots-tween.git",
     "com.tonymax.nsprites": "https://github.com/Antoshidza/NSprites.git",
     "com.tonymax.nsprites.foundation": "https://github.com/Antoshidza/NSprites-Foundation.git",
     "com.unity.cinemachine": "2.9.7",
